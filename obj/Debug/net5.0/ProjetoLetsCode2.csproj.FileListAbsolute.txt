@@ -1,0 +1,16 @@
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\bin\Debug\net5.0\ProjetoLetsCode2.exe
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\bin\Debug\net5.0\ProjetoLetsCode2.deps.json
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\bin\Debug\net5.0\ProjetoLetsCode2.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\bin\Debug\net5.0\ProjetoLetsCode2.runtimeconfig.dev.json
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\bin\Debug\net5.0\ProjetoLetsCode2.dll
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\bin\Debug\net5.0\ref\ProjetoLetsCode2.dll
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\bin\Debug\net5.0\ProjetoLetsCode2.pdb
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\obj\Debug\net5.0\ProjetoLetsCode2.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\obj\Debug\net5.0\ProjetoLetsCode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\obj\Debug\net5.0\ProjetoLetsCode2.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\obj\Debug\net5.0\ProjetoLetsCode2.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\obj\Debug\net5.0\ProjetoLetsCode2.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\obj\Debug\net5.0\ProjetoLetsCode2.dll
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\obj\Debug\net5.0\ref\ProjetoLetsCode2.dll
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\obj\Debug\net5.0\ProjetoLetsCode2.pdb
+C:\Users\Rodrigo\Desktop\Rodrigo\letscode-marketplace-CSharp\obj\Debug\net5.0\ProjetoLetsCode2.genruntimeconfig.cache
